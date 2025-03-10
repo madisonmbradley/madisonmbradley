@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Madison! 👋
 
-<!--
-**madisonmbradley/madisonmbradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I'm a data-driven development specialist dedicated to leveraging analytics and technology to solve complex, international challenges. As a Master of Science in Business Analytics student at the University of Notre Dame, I focus on the intersection of machine learning, geospatial information systems, and optimization.
 
-Here are some ideas to get you started:
+Prior to starting my masters program, I worked for three years in international development  implementing global health supply chain projects in West Africa.  I have experience in complex project management for USAID and Global Fund contractors.  From optimizing central medical stores in Cameroon to improving last-mile distribution networks in Niger, I've delivered technical solutions in some of the world's most challenging environments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proficient in Python, R, SQL, and GIS tools, I'm thrive at the intersection of data science and real-world application.
+
+Please explore my projects and feel free to reach out - I welcome opportunities to collaborate on initiatives in technology and global development.
+
+
+# Contact
+* Shoot me an [email](mbradl25@nd.edu)
+* Connect on [LinkedIn](https://www.linkedin.com/in/madisonmbradley/)
